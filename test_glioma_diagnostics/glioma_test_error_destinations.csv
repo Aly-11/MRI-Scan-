@@ -1,0 +1,3 @@
+Model,Glioma -> meningioma,Glioma -> notumor,Glioma -> pituitary
+Baseline CNN,36,49,12
+EfficientNetB0 fine-tuned,66,26,4

@@ -1,0 +1,11 @@
+# Raw dataset and large NumPy tensors
+archive/
+archive.zip
+*.npy
+
+# Local model checkpoints and training artifacts
+*.keras
+baseline_history.json
+class_mapping.csv
+processed_metadata.csv
+transfer_finetuned_history.json
