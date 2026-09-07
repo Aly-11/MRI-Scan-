@@ -1,3 +1,0 @@
-Model,Test Accuracy,Macro F1
-Baseline CNN,0.91125,0.9088737542670222
-EfficientNetB0 fine-tuned,0.91375,0.9114802178886287
